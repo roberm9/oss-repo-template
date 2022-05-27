@@ -1,5 +1,5 @@
 # Open Source Software - Summer 2019
-## (( Michael Robertson ))
+## Michael Robertson 
 
 ## Bio
 - Cs Major
