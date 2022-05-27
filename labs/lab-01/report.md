@@ -14,3 +14,6 @@ OSS allows up and coming passionate people to explore and experiment their ideas
 I hope to divuge in projects that connect to passions of mine, so I can work on something I enjoy and will feel proud when reflecting upon my contributions.   
 
 
+man tree output:  
+![mantree2](https://user-images.githubusercontent.com/95317029/170738803-7c879cab-edba-4818-8963-5b37cb50daf6.PNG)  
+
