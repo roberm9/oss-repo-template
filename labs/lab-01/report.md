@@ -18,3 +18,22 @@ man tree output:
 ![bjkfbsskbksffsjk](https://user-images.githubusercontent.com/95317029/171072146-6bcb0559-6c35-47a1-9298-ccc72bf06d19.png)
   
 
+Regex Practice problems:  
+1.)  
+![p1](https://user-images.githubusercontent.com/95317029/171072577-25fb5dc9-c58a-421a-a293-13c0bcb05d3f.PNG)    
+2.)   
+![p2](https://user-images.githubusercontent.com/95317029/171072623-52b7c1a0-f466-4334-b76b-5d38dc54fce3.PNG)    
+3.)  
+![p3](https://user-images.githubusercontent.com/95317029/171072627-ad9a0662-b7dc-49ef-82a2-3ff4de8e83f0.PNG)  
+4.)  
+![p4](https://user-images.githubusercontent.com/95317029/171072640-4a0d0a92-0c16-4000-b190-0082758da453.PNG)  
+5.)  
+![p5](https://user-images.githubusercontent.com/95317029/171072646-d7597a95-255b-4573-a730-7efb4178bd77.PNG)  
+6.)  
+![p6](https://user-images.githubusercontent.com/95317029/171072650-63219068-c934-4fd8-af99-eaec1a2929c2.PNG)  
+7.)  
+![p7](https://user-images.githubusercontent.com/95317029/171072657-6846ffc7-9cf4-4c0f-a5f3-89d2e2727fdc.PNG)  
+
+Regex Crossword:  
+
+
