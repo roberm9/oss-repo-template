@@ -45,7 +45,13 @@ Regex Crossword:
 ![p5](https://user-images.githubusercontent.com/95317029/171073488-11bcf94b-30a4-4f70-b01c-2cd16e76bf96.PNG)  
 
 
-
-
+BLOCKY:  
+![maze](https://user-images.githubusercontent.com/95317029/171074495-2a97558e-e88b-4d9c-b67b-fa47541b8c30.PNG)  
+My process:  
+I first tried to solve this through trial and error, but of course quickly got no where.  
+I then looked for a simple way to go about it without any code. Aka, solve the problem first, then code it.  
+I realize this maze is easily solved by hugging the left wall, so then I just had to find logic that did exactly that, and thus got the solution.  
+ 
+ 
 
 
