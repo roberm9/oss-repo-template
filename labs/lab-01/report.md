@@ -35,5 +35,17 @@ Regex Practice problems:
 ![p7](https://user-images.githubusercontent.com/95317029/171072657-6846ffc7-9cf4-4c0f-a5f3-89d2e2727fdc.PNG)  
 
 Regex Crossword:  
+1.)  
+![p1](https://user-images.githubusercontent.com/95317029/171073469-017e997e-6b48-4528-9b73-1d79886b9220.PNG)  
+2.)  
+![p2](https://user-images.githubusercontent.com/95317029/171073475-b0f87b67-60b9-45bd-9a43-84f5fd354310.PNG)  
+3.)  
+![p3](https://user-images.githubusercontent.com/95317029/171073481-368e8930-6826-4e86-82f4-77f67a844672.PNG)  
+4.)  
+![p5](https://user-images.githubusercontent.com/95317029/171073488-11bcf94b-30a4-4f70-b01c-2cd16e76bf96.PNG)  
+
+
+
+
 
 
