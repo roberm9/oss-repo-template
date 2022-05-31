@@ -54,4 +54,12 @@ I realize this maze is easily solved by hugging the left wall, so then I just ha
  
  
 
+Reflection:  
+As someone who has no experience in open source, and more specifically someone who hasn't really ever worked on a project that wasn't a homework for some course, picking a project seems like quite a large task.
+Personally I think the best way to go about picking or finding a project is to pick a topic one is actually interested in. Especially if said project has nothing to do with credit for a class, one should find something they're interested in as they will care more about it and take more pride in said project.
+For me, I took a look at the given link as I had no idea where to start looking otherwise.
+There are a few there that sound interesting, such as "Making your own image filters" or "A 3D modeller", but the're not really in my wheelhouse and seem a lot more complicated at first glance then anything I've done/worked on prior. However, if we were just to analyze/evaluate said project, I would like to look into "Making your own image filter" as it is one of the 
+projects from the list that I can visualize its application enough to be interested in the backend of said program.
+
+
 
