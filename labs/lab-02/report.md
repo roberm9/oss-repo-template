@@ -30,6 +30,9 @@ Learn Git Branching (Introduction Sequence):
 Part 3: Forking   
 
 Link to my PullReq Fork:  
-https://github.com/roberm9/PullReq/tree/master/Summer2022
+https://github.com/roberm9/PullReq/tree/master/Summer2022  
+
+git diff HEAD~1:  
+![diff](https://user-images.githubusercontent.com/95317029/172242140-9f6e5563-d0ef-430e-bc87-5c8832cf6d82.PNG)  
 
 
