@@ -14,5 +14,5 @@ My sister and I at her Columbian graduation in NYC:
 ![new new thing](https://user-images.githubusercontent.com/95317029/170729423-3a70e95b-4ebc-4224-882d-3a3f2e3b065d.jpg)
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/report.md)   
 [Lab 2](labs/lab-02/report.md)
