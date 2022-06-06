@@ -19,3 +19,12 @@ jupiter:
 Fork Repo:  
 https://github.com/roberm9/Spoon-Knife  
 
+Learn Git Branching (Introduction Sequence):  
+![q1](https://user-images.githubusercontent.com/95317029/172239603-c84e7dfb-4171-4b18-954f-21282c3a5568.PNG)  
+![q2](https://user-images.githubusercontent.com/95317029/172239609-f6ff42f2-63c7-4ce0-8643-00a914b87304.PNG)  
+![q3](https://user-images.githubusercontent.com/95317029/172239613-f77d055b-5a5b-459c-8457-7a0be75c3536.PNG)   
+![q4](https://user-images.githubusercontent.com/95317029/172239616-255ea326-3440-4019-b899-88e28942706b.PNG)  
+![qqqq](https://user-images.githubusercontent.com/95317029/172239620-b267be8e-3fdc-42fc-9268-e97aca9b6504.PNG)  
+
+
+
