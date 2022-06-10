@@ -18,5 +18,9 @@ $$\begin{bmatrix}
 ###### Project Descriptions:  
 
 Floating Twitch: https://github.com/fcusano9/floatingtwitch  
-
+The number of contributors: 
+Number of lines of code: 
+The first commit: 
+The latest commit: 
+The current branches : 
 
