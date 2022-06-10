@@ -13,6 +13,8 @@ $$\begin{bmatrix}
 1 & -1 & -1 & 1
 \end{bmatrix}$$  
 
+#### Part 2: Community  
 
+###### Project Descriptions:  
 
 
