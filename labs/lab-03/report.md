@@ -21,8 +21,11 @@ Floating Twitch: https://github.com/fcusano9/floatingtwitch
 The number of contributors: 1  
 Number of lines of code: 19791  
 The first commit: [fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)  
-The latest commit: https://github.com/fcusano9/FloatingTwitch/commit/0e0289a7ea4a60822a5c44903586976909ede17f
-The current branches : Default Branch and Stale Branch  
+The latest commit: https://github.com/fcusano9/FloatingTwitch/commit/0e0289a7ea4a60822a5c44903586976909ede17f   
+The current branches : Default Branch and Stale Branch   
+
+
+
 
 
 
