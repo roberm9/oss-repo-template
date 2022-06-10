@@ -6,12 +6,13 @@ $$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$$
 $$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}} $$
 
 ###### Hadamard Matrix size 4:  
-\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 1 & 1 & 1 \\ 
 -1 & 1 & -1 & 1 \\ 
 -1 & -1 & 1 & 1 \\
 1 & -1 & -1 & 1
-\end{bmatrix}  
+\end{bmatrix}$$  
+
 
 
 
