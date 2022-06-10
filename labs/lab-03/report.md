@@ -20,8 +20,7 @@ $$\begin{bmatrix}
 Floating Twitch: https://github.com/fcusano9/floatingtwitch  
 The number of contributors: 1  
 Number of lines of code: 19791  
-The first commit:   
- [fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)  
+The first commit: [fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)  
 The latest commit:  
   Author: Frank Cusano <frank.cusano9@gmail.com>  
   Date:   Sat Nov 10 16:01:49 2018 -0500  
