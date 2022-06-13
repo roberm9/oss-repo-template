@@ -48,7 +48,9 @@ latest commit: https://github.com/rpi-alpaca/alpaca/commit/550d1c4f06c0697f5c9e6
 current branches: master, color_test, LogicGate     
 
 
-
+Floating Twitch Gitstats Examples:  
+![FT1](https://user-images.githubusercontent.com/95317029/173465154-b805ec45-ac66-469b-91aa-e2f7e5a30345.PNG)  
+![ft2](https://user-images.githubusercontent.com/95317029/173465167-d2d0ab58-2b85-47ee-8739-55093a5feb41.PNG)  
 
 
 
