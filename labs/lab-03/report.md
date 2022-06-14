@@ -69,7 +69,10 @@ I could not get gource working on my computer as it kept giving me segmentation 
 ![snap](https://user-images.githubusercontent.com/95317029/173484105-5077aded-5695-4a25-a64f-d1db748ff086.PNG)  
 I tried a multitude of installs, reinstalls, sudo updates, updates, installing through brew instead, and nothing seemed to work.  
 
-However one of the people in my group allowed me to view the projects on their gource.  
+However one of the people in my group allowed me to view the projects on their gource and the usage of:  
+gource -1280x720 -o gource.ppm --time-scale 3  
+ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm  -vcodec mpeg4 -b:v 3000k -s hd480 gource.mp4  
+
 I was able to see the tree's and the different commits. It was a very facinating way to visualize the different git repos.  
 
 
