@@ -64,6 +64,11 @@ Floating Twitch Gitstats Examples:
 ![FT1](https://user-images.githubusercontent.com/95317029/173465154-b805ec45-ac66-469b-91aa-e2f7e5a30345.PNG)  
 ![ft2](https://user-images.githubusercontent.com/95317029/173465167-d2d0ab58-2b85-47ee-8739-55093a5feb41.PNG)  
 
+Gource:  
+I could not get gource working on my computer as it kept giving me segmentation faults.  
+![snap](https://user-images.githubusercontent.com/95317029/173484105-5077aded-5695-4a25-a64f-d1db748ff086.PNG)  
+However one of the people in my group allowed me to view the projects on their gource.  
+I was able to see the tree's and the different commits. It was a very facinating way to visualize the different git repos.
 
 
 
