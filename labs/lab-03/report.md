@@ -13,6 +13,12 @@ $$\begin{bmatrix}
 1 & -1 & -1 & 1
 \end{bmatrix}$$  
 
+make latexpdf:  
+File Location:  
+C:\Users\Michael\Lab\CSCI-4470-OpenSource\Modules\01.Introduction\History\build\latex\Introduction.Pdf
+Prompt:  
+![thing](https://user-images.githubusercontent.com/95317029/173473537-d5f43980-6d41-4d48-a303-b2479f2b71d2.PNG)  
+
 #### Part 2: Community  
 
 ###### Project Descriptions:  
