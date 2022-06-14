@@ -48,6 +48,12 @@ latest commit: https://github.com/rpi-alpaca/alpaca/commit/550d1c4f06c0697f5c9e6
 current branches: master, color_test, LogicGate     
 
 
+Using Gitstats vs Github:  
+I found gitstats a lot more easier to find data rather than mindlessly clicking around github looking for information.
+Interestingly, for Floating Twitch (the repo I picked) I was given a different number of lines of code for the two different ways I looked it up.  
+This, however, was probably my user error more then anything, as gitstats gave me 420 lines instead of 300.  
+Comparatively, gitstats gives more and places it all in one place, so I guess I'd say I perfer it more. However, that may be due to all the effort I put into getting it installed so I might be biased.
+
 Floating Twitch Gitstats Examples:  
 ![FT1](https://user-images.githubusercontent.com/95317029/173465154-b805ec45-ac66-469b-91aa-e2f7e5a30345.PNG)  
 ![ft2](https://user-images.githubusercontent.com/95317029/173465167-d2d0ab58-2b85-47ee-8739-55093a5feb41.PNG)  
