@@ -21,3 +21,16 @@ Tutorial Output:
 ![tutorial output for part 2](https://user-images.githubusercontent.com/95317029/174336689-07709b78-f7fe-4e6f-854a-f56820808efc.PNG)  
 
 
+###### Step 3:  
+Link to CMakeLists:
+https://github.com/roberm9/oss-repo-template/blob/ae6ffe9e6a6500213ce61617378932afa7a7af8d/labs/lab-05/Step3/CMakeLists.txt  
+
+Link to MathFunction/CMakeLists:
+https://github.com/roberm9/oss-repo-template/blob/ae6ffe9e6a6500213ce61617378932afa7a7af8d/labs/lab-05/Step3/MathFunctions/CMakeLists.txt  
+
+Tutorial Output:  
+![Output tutorial for part 3](https://user-images.githubusercontent.com/95317029/174338960-23902969-1844-492f-b433-e50888766667.PNG)  
+
+
+
+
