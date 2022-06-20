@@ -47,10 +47,17 @@ ctest -VV output (3 pictures):
 
 ###### Step 5:  
 Link to CMakeLists:  
-    
+https://github.com/roberm9/oss-repo-template/blob/76fdbbffbf9a12546b5f90bf43973f36828caa1c/labs/lab-05/Step5/MathFunctions/CMakeLists      
 
 Link to MathFunction/CMakeLists:  
-  
+https://github.com/roberm9/oss-repo-template/blob/76fdbbffbf9a12546b5f90bf43973f36828caa1c/labs/lab-05/Step5/MathFunctions/CMakeLists  
+
+Tutorial Output:  
+![Step 5 outpiut](https://user-images.githubusercontent.com/95317029/174511113-f1367859-309d-4723-9206-d1fb4e0488b9.PNG)  
+
+
+
+##### Part 2:  
 
 
 
