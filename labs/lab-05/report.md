@@ -58,7 +58,22 @@ Tutorial Output:
 
 
 ##### Part 2:  
+###### My Makefile  
+My own Makefile link:  
+https://github.com/roberm9/oss-repo-template/blob/02f9a081294380950b337f16cd76aee182507167/labs/lab-05/Example/Makefile  
 
+Size of the exec files and their outputs from my Makefile:  
+![makefileoutput](https://user-images.githubusercontent.com/95317029/174520370-d309255a-bc29-4cf6-a21b-7b9f901c71b1.PNG)  
+
+###### cmake:  
+CMakeLists link:  
+https://github.com/roberm9/oss-repo-template/blob/02f9a081294380950b337f16cd76aee182507167/labs/lab-05/Example/build/CMakeLists.txt  
+
+cmakes makefile llinke:  
+https://github.com/roberm9/oss-repo-template/blob/02f9a081294380950b337f16cd76aee182507167/labs/lab-05/Example/build/Makefile  
+
+Cmakes sizes and outputs:  
+![cmakestuff](https://user-images.githubusercontent.com/95317029/174520417-9c61fd8f-2fa6-4931-b6cc-ad63df1799ed.PNG)
 
 
 
