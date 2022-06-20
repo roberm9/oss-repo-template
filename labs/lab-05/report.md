@@ -32,5 +32,18 @@ Tutorial Output:
 ![Output tutorial for part 3](https://user-images.githubusercontent.com/95317029/174338960-23902969-1844-492f-b433-e50888766667.PNG)  
 
 
+###### Step 3:  
+Link to CMakeLists:  
+https://github.com/roberm9/oss-repo-template/blob/dfb63ea79d41ee2c2b641577cae63f7bba9d6f59/labs/lab-05/Step4/CMakeLists    
+
+Link to MathFunction/CMakeLists:  
+https://github.com/roberm9/oss-repo-template/blob/dfb63ea79d41ee2c2b641577cae63f7bba9d6f59/labs/lab-05/Step4/MathFunctions/CMakeLists  
+
+ctest -VV output (3 pictures):  
+![p1](https://user-images.githubusercontent.com/95317029/174510130-6a740fc6-6c8a-44df-a8fd-72f32ceafed2.PNG)  
+![p2](https://user-images.githubusercontent.com/95317029/174510150-a61c836a-81a6-4498-ba9c-330a8b0080d7.PNG)  
+![p3](https://user-images.githubusercontent.com/95317029/174510158-f2cfa4f9-f17b-402f-a851-13100fcd1e7b.PNG)  
+
+
 
 
