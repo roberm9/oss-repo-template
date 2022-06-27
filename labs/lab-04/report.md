@@ -4,7 +4,10 @@
 Added CC0 1.0 Universal to lab-04 folder.  
 
 ##### Why it is important to choose a LICENSE?:    
-
+The importance in choosing a license revolves around others knowing what to do with your code.
+If it's free software, you want others to be able to know and be comfortable in using your software.
+Even in the situation where your code is commericial, you don't want people to copy and redistribute your own software.
+People know what they can do with your software and you need to express how you want your software to be used.  
 
 
 ##### Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?:    
