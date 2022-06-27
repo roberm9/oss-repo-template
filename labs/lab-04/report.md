@@ -3,10 +3,15 @@
 
 Added CC0 1.0 Universal to lab-04 folder.  
 
-###### Criteria for Free Software:    
+##### Why it is important to choose a LICENSE?:    
 
 
 
+##### Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?:    
+
+
+
+##### Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim?:    
 
 
 
