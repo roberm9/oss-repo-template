@@ -11,7 +11,9 @@ People know what they can do with your software and you need to express how you 
 
 
 ##### Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?:    
-
+The unknown is frightening as you could use a project and then get ruined later.
+Ignorance doesn't clear you from copyright law and thus if it is not explicitly clear if you can use the software or not, it is just better to not use it.
+It's always best to be 100% sure and have 100% concrete proof.
 
 
 ##### Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim?:    
