@@ -23,11 +23,18 @@ Instead of welcoming in the majority of the community to help shape it into some
 Not very smart, In my personal opinion, and almost never likely to work, and thus I agree with the claim made in this report.
 
 ##### Why Linux uses the GPL v2
+The GPL licence allowed Linux to adopt a Decentralized Developpment Approach (1).
+The licences allows the four essential freedoms, which allowed Linux to allow people acess to kernal level source code.
+Anyone could add/change/improve and collaborate in large amounts, and continuous improvement as new, motivated and wide eyed coders cgain and lose interest in the project. 
+GPL's freedoms also leads to better secruity, which is important for an operating such as Linux. (2) Since anyone can look at the source code, you have thousands of eyes searching for holes, and also filling them up. 
+There aren't any little crakcs such of those a closed software might hide, Linux being open sourced allows for all possible threats to be found and covered. 
+Lastly, Linux desired to be accessible and portable. To be used anywhere and in anyway. The GPL license allows for the modification and distributation nessesary for these goals to be achieved.   
 
+[(1)](https://www.channelfutures.com/open-source/open-source-history-why-did-linux-succeed)  
+[(2)](https://www.makeuseof.com/tag/linux-great-open-source-operating-system/)   
 
-
-##### Table thing
-
+##### Buisness Idea
+Link:  
 
 ##### 5 RCOS projects
 Website | License Present | License
