@@ -17,10 +17,22 @@ It's always best to be 100% sure and have 100% concrete proof.
 
 
 ##### Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim?:    
+I do agree with this claim. At its time, inovation and ciritism was plenty and rapid as the internet was slowly putting itself together towards what it looks like today.
+Gopher, not going completely open in early development, took the "We know what this "new thing" should be like and no one else does".
+Instead of welcoming in the majority of the community to help shape it into something that could benefit everybody (by direct input from the "everybody"), they decided to go along by themselves and try to predict "everybody"'s opnion.
+Not very smart, In my personal opinion, and almost never likely to work, and thus I agree with the claim made in this report.
+
+##### Why Linux uses the GPL v2
 
 
 
+##### Table thing
 
+
+##### 5 RCOS projects
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 
 
 
