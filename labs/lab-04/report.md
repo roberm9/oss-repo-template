@@ -33,10 +33,10 @@ Not very smart, In my personal opinion, and almost never likely to work, and thu
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/V2grad/Organizer | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
-bla | bla | bla
-bla | bla | bla
-bla | bla | bla
-bla | bla | bla  
+https://github.com/bainer125/yagos | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/connorjayr/willow | Yes |  MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/harrij15/SquareMeals | Yes | BSD 3-Clause "New" or "Revised" License https://en.wikipedia.org/wiki/BSD_licenses
+https://github.com/nick-lennox/beirrun | Yes |  MIT License https://en.wikipedia.org/wiki/MIT_License
 
 
 
