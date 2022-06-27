@@ -32,9 +32,11 @@ Not very smart, In my personal opinion, and almost never likely to work, and thu
 ##### 5 RCOS projects
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-
-
+https://github.com/V2grad/Organizer | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+bla | bla | bla
+bla | bla | bla
+bla | bla | bla
+bla | bla | bla  
 
 
 
