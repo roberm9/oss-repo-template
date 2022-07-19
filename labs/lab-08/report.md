@@ -17,7 +17,15 @@ Q.) Find a system that is close to your specific configuration in the Nightly, N
   
 In the Nightly section, the dashboard is pretty clean. There seems to be little to no errors that are popping up. There are, of course, failed and 'not run' tests, however, each part seems to be free of expected errors in configuration or building.  
 
+Experimental submission outputs:
+![completed part 2](https://user-images.githubusercontent.com/95317029/179645194-9a2b81b3-f89a-4d99-a6bd-feaa0afe64ee.PNG)  
+![no fail](https://user-images.githubusercontent.com/95317029/179645225-74ec1354-1f96-4631-89dd-7d9d5272e951.PNG)
+
+
 ###### Step 3:
+Failed: (wrong date)  
+![failed part 3](https://user-images.githubusercontent.com/95317029/179645271-6f871b89-03d1-468d-89e0-32e86c44d8d2.PNG)  
+![year wrong](https://user-images.githubusercontent.com/95317029/179645262-39f07580-c0fb-468b-8ce6-bf88c4865932.PNG)  
 
 
 ###### Step 4:
