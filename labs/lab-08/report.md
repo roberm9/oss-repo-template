@@ -15,6 +15,7 @@ You can click the number under the specific error and it will bring you to a lis
    
 Q.) Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with?:  
   
+In the Nightly section, the dashboard is pretty clean. There seems to be little to no errors that are popping up. There are, of course, failed and 'not run' tests, however, each part seems to be free of expected errors in configuration or building.  
 
 ###### Step 3:
 
