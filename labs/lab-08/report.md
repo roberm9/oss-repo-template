@@ -27,6 +27,10 @@ Failed: (wrong date)
 ![failed part 3](https://user-images.githubusercontent.com/95317029/179645271-6f871b89-03d1-468d-89e0-32e86c44d8d2.PNG)  
 ![year wrong](https://user-images.githubusercontent.com/95317029/179645262-39f07580-c0fb-468b-8ce6-bf88c4865932.PNG)  
 
+Fixed error (changed back to 2022):  
+![fixed document](https://user-images.githubusercontent.com/95317029/179645482-13a35d46-904a-400c-8701-d28a3372f86c.PNG)  
+![new fixed thing](https://user-images.githubusercontent.com/95317029/179645636-4717aca8-f1fc-47b0-a662-2d760f5fecb2.PNG)  
+
 
 ###### Step 4:
 
