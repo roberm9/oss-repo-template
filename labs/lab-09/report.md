@@ -30,3 +30,13 @@ run Dockfile:
 
 
 ###### Example 04:  
+Build:  
+![first part](https://user-images.githubusercontent.com/95317029/180494277-5250677c-a2b6-4b49-9b9e-46a4395ab428.PNG)  
+
+Run:  
+![post run](https://user-images.githubusercontent.com/95317029/180494297-a0c68971-6e7e-4409-8e0d-8f3f7c177adb.PNG)  
+
+Use:  
+![first part of program 4](https://user-images.githubusercontent.com/95317029/180494322-800a9e9d-ee4c-4d98-a452-fc48489b0dae.PNG)  
+![2nd part of 4 program](https://user-images.githubusercontent.com/95317029/180494335-58233d30-8080-454b-8c70-3bd0648017dc.PNG)  
+
