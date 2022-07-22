@@ -22,6 +22,11 @@ Stopping:
 ![e02-stopping](https://user-images.githubusercontent.com/95317029/180474001-248338b7-b450-4c87-abce-bf90b4b5bd63.PNG)  
 
 ###### Example 03:  
+built Dockfile:  
+![ran the thing](https://user-images.githubusercontent.com/95317029/180476961-c5913164-ebe4-4f39-a6b6-0dfed8691255.PNG)  
+
+run Dockfile:  
+![snip e03 final thing](https://user-images.githubusercontent.com/95317029/180477077-968bdfc0-737e-4c6e-b8e5-cf9079502059.PNG)  
 
 
 ###### Example 04:  
