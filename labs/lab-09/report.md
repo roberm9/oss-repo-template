@@ -1,6 +1,7 @@
 # Lab 9 Report - Visualization - Michael Robertson - 7/22/2022  
 
-###### Example 00:  
+###### Example 00: 
+Output basic:  
 ![example00](https://user-images.githubusercontent.com/95317029/180469012-9e8b8b78-1428-4a4f-bb66-bc9c078d19e3.PNG)  
 
 
@@ -30,13 +31,13 @@ run Dockfile:
 
 
 ###### Example 04:  
-Build:  
+Build Dockfile:  
 ![first part](https://user-images.githubusercontent.com/95317029/180494277-5250677c-a2b6-4b49-9b9e-46a4395ab428.PNG)  
 
-Run:  (docker-compose up)  
+Run dockfile and docker-compose:  (docker-compose up)  
 ![post run](https://user-images.githubusercontent.com/95317029/180494297-a0c68971-6e7e-4409-8e0d-8f3f7c177adb.PNG)  
 
-Use:  
+Use with different commands:  
 ![first part of program 4](https://user-images.githubusercontent.com/95317029/180494322-800a9e9d-ee4c-4d98-a452-fc48489b0dae.PNG)  
 ![2nd part of 4 program](https://user-images.githubusercontent.com/95317029/180494335-58233d30-8080-454b-8c70-3bd0648017dc.PNG)  
 
