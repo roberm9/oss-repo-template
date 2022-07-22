@@ -33,7 +33,7 @@ run Dockfile:
 Build:  
 ![first part](https://user-images.githubusercontent.com/95317029/180494277-5250677c-a2b6-4b49-9b9e-46a4395ab428.PNG)  
 
-Run:  
+Run:  (docker-compose up)  
 ![post run](https://user-images.githubusercontent.com/95317029/180494297-a0c68971-6e7e-4409-8e0d-8f3f7c177adb.PNG)  
 
 Use:  
